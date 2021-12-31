@@ -1,4 +1,9 @@
-### Hi there 👋
+
+UnwantedMasking is coming soon.
+
+This github will house our source code for our bots, and website: unwantedmasking.com
+
+We are always masking, an unwanted amount.
 
 <!--
 **UnwantedMasking/UnwantedMasking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
