@@ -1,9 +1,5 @@
 
-UnwantedMasking is coming soon.
-
-This github will house our source code for our bots, and website: unwantedmasking.com & unknownmasking.com
-
-We are always masking, an unwanted amount.
+Pluto Management Group, Apart of Pythona Studios to help their artists, Talents, and more.
 
 <!--
 **UnwantedMasking/UnwantedMasking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
